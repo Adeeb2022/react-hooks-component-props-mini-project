@@ -10,7 +10,7 @@ const blogData = {
       title: "Components 101",
       date: "December 15, 2020",
       preview: "Setting up the building blocks of your site",
-      minutes: 51,
+      minutes: 5,
     },
     {
       id: 2,
