@@ -19,8 +19,8 @@ export default function Article({
 }) {
   return (
     <article>
-      <h3>{title} {minutesToRead(minutes)} {minutes} min read</h3>
-      <small>{date}</small>
+      <h3>{title}</h3>
+      <small>{date} {minutesToRead(minutes)} {minutes} min read</small>
       <p>{preview}</p>
     </article>
   );
